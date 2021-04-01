@@ -15,7 +15,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dOWS9cU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="d3ward" /></a></p><br><br>
+<br>
+<p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ward&show_icons=true&locale=en" alt="d3ward" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3ward&show_icons=true&locale=en&layout=compact" alt="d3ward" /></p>
+<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3ward&show_icons=true&locale=en&layout=compact" alt="d3ward" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ward&show_icons=true&locale=en" alt="d3ward" /></p>

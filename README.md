@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://d3ward.github.io/](https://d3ward.github.io/)
 
-- 💬 Ask me about ** Userscripts , Extensions , Vanilla JS**
+- 💬 Ask me about **Userscripts , Extensions , Vanilla JS**
 
 - 📫 How to reach me **eduardursu78@gmail.com**
 

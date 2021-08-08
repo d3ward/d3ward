@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3ward&label=Profile%20views&color=0e75b6&style=flat" alt="d3ward" /> </p>
 
-- 🔭 I’m currently working on **d3SS Framework , Next NTP**
-
-- 🌱 I’m currently learning **ReactJS , Gatsby**
+- 🔭 I’m currently working on ** Next NTP , Floatly**
 
 - 👨‍💻 All of my projects are available at [https://d3ward.github.io/](https://d3ward.github.io/)
 

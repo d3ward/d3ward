@@ -12,8 +12,7 @@
 - 📫 How to reach me **eduardursu78@gmail.com**
 
 <br><br>
-<p><a href="https://ko-fi.com/T6T360PF4"> <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="d3ward" /></a></p><br><br>
-<br>
+<a href='https://ko-fi.com/T6T360PF4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br>
 <p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ward&show_icons=true&locale=en" alt="d3ward" /></p>
 
 <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3ward&show_icons=true&locale=en&layout=compact" alt="d3ward" /></p>

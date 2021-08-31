@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **eduardursu78@gmail.com**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dOWS9cU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="d3ward" /></a></p><br><br>
+<br><br>
+<p><a href="https://ko-fi.com/T6T360PF4"> <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="d3ward" /></a></p><br><br>
 <br>
 <p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ward&show_icons=true&locale=en" alt="d3ward" /></p>
 
